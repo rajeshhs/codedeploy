@@ -7,7 +7,7 @@
         <link href="css/style.css" rel="stylesheet">
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Hello Hello</h1>
         
 <%
 out.print( "<h2 align=\"center\">" +new java.util.Date()+"</h2>");
